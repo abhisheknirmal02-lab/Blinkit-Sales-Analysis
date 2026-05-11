@@ -2,8 +2,8 @@
 # 🛒 Blinkit Sales Analysis Dashboard
 **Power BI · SQL · DAX · India's Last Minute Grocery App**
 
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=)
+![SQL](https://img.shields.io/badge/SQL-4479A1black?style=flat&logo=mysql&logoColor=white)
 ![DAX](https://img.shields.io/badge/DAX-7B2D8B?style=flat)
 
 ---
